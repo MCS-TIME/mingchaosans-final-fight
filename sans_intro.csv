@@ -485,6 +485,3 @@
 0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
 0	GetHeartPos	HeartX	HeartY						
 0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
-0	SansText	SABI							
-0	CombatZoneResize	169	226	478	391				
-0	HeartTelePort	320	304						
