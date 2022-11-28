@@ -1,158 +1,490 @@
-	
-0	SetMaxHp	120							
-0.0001	damageplayer	-999	0						
-0	SansHead	ClosedEyes							
-0	SansAnimation	Sleep							
-0	SansText	Ready?							
-0	CombatZoneResizeInstant	250	230	410	380				
-0	HeartTeleport	320	320						
-0	HeartMaxFallSpeed	500							
-0	SansSlam	1							
-0	BoneStab	1	45	0.4	0.4				
-0	SansBody	HandDown							
-0	SansHead	BlueEye							
-0.4	SansHead	NoEyes							
-0	GasterBlaster	1	0	0	240	220	45	0	0.1
-0	GasterBlaster	1	0	0	420	220	135	0	0.1
-0	SansBody	HandUp							
-0.8	SansBody	HandRight							
-0	HeartMode	0							
-0	SineBones	25	-24	400	25				
-0.3	BoneV	530	200	900	2	900	1		
-0.9	BoneV	530	200	900	2	900	1		
-0.8	GasterBlaster	1	0	0	320	200	90	0.6	0.2
-0	GasterBlaster	1	0	0	200	320	0	0.6	0.2
-0	GasterBlaster	1	0	0	500	320	180	0.6	0.2
-0	GasterBlaster	1	0	0	320	400	270	0.6	0.2
-0	BoneStab	3	85	0	1				
-0	BoneStab	0	85	0	1				
-0.3	BoneV	530	200	900	2	900	1		
-0	Sound	GasterBlaster							
-0	Sound	mus_zz_megalovania							
-2.7	SansHead	Default							
-0	SansBody	Default							
-0	SansAnimation	Idle							
-0	SansText	Here we go.							
-0	CombatZoneResizeInstant	250	240	410	380				
-0	HeartTeleport	320	320						
-0	HeartMaxFallSpeed	500							
-0	SansSlam	1							
-0	Sound	Flash							
-0.0666	BlackScreen	0							
-0	Sound	Flash							
-0	SansBody	HandDown							
-1	BoneStab	1	45	0.4	9.46				
-0	SansAnimation	Idle							
-0	Platform	90	325	40	0	200			
-0.4	Platform	90	325	40	0	200			
-0.4	Platform	90	325	40	0	200			
-0	GasterBlaster	0.3	54	234	320	45	90	0	0.1
-0.1	GasterBlaster	0.3	54	234	45	305	0	0	0.1
-0.3	Platform	90	325	40	0	200			
-0.4	Platform	90	325	40	0	200			
-0	GasterBlaster	0.3	54	234	320	45	90	0	0.1
-0.1	GasterBlaster	0.3	54	234	45	305	0	0	0.1
-0.3	Platform	90	325	40	0	200			
-0.4	Platform	90	325	40	0	200			
-0	GasterBlaster	0.3	54	234	320	45	90	0	0.1
-0.1	GasterBlaster	0.3	54	234	45	305	0	0	0.1
-0.3	Platform	90	325	40	0	200			
-0.4	Platform	90	325	40	0	200			
-0	GasterBlaster	0.3	54	234	320	45	90	0	0.1
-0.1	GasterBlaster	0.3	54	234	45	305	0	0	0.1
-0.3	Platform	90	325	40	0	200			
-0.4	Platform	90	325	40	0	200			
-0.2	GasterBlaster	0.3	54	234	45	305	0	0	0.1
-0.6	Platform	90	325	40	0	200			
-0.2	GasterBlaster	0.3	54	234	45	305	0	0	0.1
-0.6	Platform	90	325	40	0	200			
-0.2	GasterBlaster	0.3	54	234	45	305	0	0	0.1
-0.6	Platform	90	325	40	0	200			
-0.2	GasterBlaster	0.3	54	234	45	305	0	0	0.1
-0.6	Platform	90	325	40	0	200			
-0.2	GasterBlaster	0.3	54	234	45	305	0	0	0.1
-0.6	Platform	90	325	40	0	200			
-0	GasterBlaster	2	54	234	45	280	0	1.6	0.1
-3.46	BlackScreen	1							
-0	CombatZoneResizeInstant	250	240	410	380				
-0	HeartTeleport	320	320						
-0	HeartMaxFallSpeed	500							
-0	Sound	Flash							
-0.0666	BlackScreen	0							
-0	Sound	Flash							
-0	HeartMode	0							
-0	Sound	Ping							
-0	Sound	GasterBlaster							
-0	BoneHRepeat	130	-10	200	1	400	2	183	
-0	BoneHRepeat	330	650	200	3	400	2	183	
-0	GasterBlaster	2	0	0	110	300	0	0	0.1
-1	GasterBlaster	2	0	0	110	270	0	0	0.1
-1	GasterBlaster	2	0	0	110	360	0	0	0.1
-1.5	GasterBlaster	2	0	0	110	330	0	0	0.1
-4	SineBones	100	-24	500	25				
-0	SansBody	HandRight							
-5	SansSlam	2							
-0	HeartMaxFallSpeed	900							
-0	SansBody	HandLeft							
-0	SansBody	2							
-0	BoneStab	2	50	0.4	0.2				
-0.6	SansBody	HandRight							
-0	CombatZoneResize	10	300	1100	390				
-0	CombatZoneResizeSpeed	100							
-0	CombatZoneResize	-10	300	1100	390				
-0	HeartMaxFallSpeed	0							
+0	CombatZoneResizeinstant	240	230	410	400				
+0	HeartTeleport	320	304						
+0	SansText	wcnm							
+0	playerheal	200							
+0	BoneStab	0	30	1	0.5				
+0	GasterBlaster	0	123	564	323.5	308.5	90	0.5	3
+0	GasterBlaster	0	456	444	323.5	308.5	180	0.5	3
+0	GasterBlaster	0	123	564	323.5	308.5	270	0.5	3
+0	GasterBlaster	0	456	444	323.5	308.5	360	0.5	3
+0	BoneStab	1	30	1	3				
+0	BoneStab	2	30	1	3				
+0	BoneStab	3	30	1	3				
+0	BoneStab	4	30	1	3				
+0	BoneStab	0	30	1	3				
+0	BoneStab	1	30	1	3				
+0	BoneStab	2	30	1	3				
+0	GasterBlaster	0	123	564	323.5	308.5	45	0.5	3
+0	GasterBlaster	0	456	444	323.5	308.5	90	0.5	3
+0	GasterBlaster	0	123	564	323.5	308.5	135	0.5	3
+0	GasterBlaster	0	456	444	323.5	308.5	180	0.5	3
+0	SansText	?							
+0	SansSlamDamage	20							
 0	SansSlam	0							
-0	SansRepeat								
-0	SansAnimation	Idle							
-2	BoneStab	1	50	0.4	0.4				
-0	HeartMaxFallSpeed	300							
+0	BoneStab	0	30	1	0.5				
 0	SansSlam	1							
-0	SansBody	HandDown							
-0.8	BoneStab	3	50	0.4	0.4				
+0	BoneStab	1	30	1	0.5				
+0	SansSlam	2							
+0	BoneStab	2	30	1	0.5				
 0	SansSlam	3							
-0	SansBody	HandUp							
-0.8	BoneStab	1	50	0.4	0.4				
-0	SansSlam	1							
-0	SansBody	HandDown							
-1.2	HeartMaxFallSpeed	0							
-0	SansSlam	0							
-0	SansBody	HandLeft							
-0.6	SansAnimation	Idle							
-0	BoneV	1000	345	50	2	600	0		
-0.3	BoneV	1000	305	50	2	600	0		
-0.3	BoneV	1000	345	50	2	600	0		
-0.3	BoneV	1000	305	50	2	600	0		
-0.3	BoneV	1000	345	50	2	600	0		
-0.3	BoneV	1000	305	50	2	600	0		
-0.3	BoneV	1000	345	50	2	600	0		
-0.3	BoneV	1000	305	50	2	600	0		
-1.5	HeartMaxFallSpeed	400							
-0	CombatZoneResize	-10	300	600	390				
-0	GasterBlaster	1	0	0	70	320	0	0.3	0.3
-1	SansHead	Wink							
-0.4	BoneStab	0	50	0.4	0.4				
-0	GasterBlaster	0.6	0	0	530	150	90	0.3	0.3
-0.4	BlackScreen	1							
-0	CombatZoneResizeInstant	250	270	410	400				
-0	HeartTeleport	320	340						
-0	Sound	Flash							
-0.4	BlackScreen	0							
-0	SansSlam	1							
-0	SansEndRepeat								
-0	BoneVRepeat	125	280	75	0	350	15	250	
-0	BoneVRepeat	125	370	25	0	350	15	250	
-0	BoneHRepeat	140	-10	170	1	900	900	10	
-0	BoneHRepeat	340	-10	170	1	900	900	10	
-0	GasterBlaster	1	320	0	320	100	90	11	10
-11	BoneVRepeat	525	280	75	2	350	15	250	
-0	BoneVRepeat	525	370	25	2	350	15	250	
-0	BoneVRepeat	125	270	85	0	900	900	10	
-11	BlackScreen	1							
-0	CombatZoneResizeInstant	180	270	460	400				
-0	HeartTeleport	320	340						
-0	Sound	Flash							
-0.4	BlackScreen	0							
-0	SansHead	Default							
-0	SansBody	Default							
-0	SansAnimation	Idle							
-0	Endattack								
+0	BoneStab	3	30	1	0.5				
+0	SansSlam	4							
+0	BoneStab	4	30	1	0.5				
+0	GasterBlaster	0	123	564	323.5	308.5	90	0.5	0.5
+0	GasterBlaster	0	456	444	323.5	308.5	180	0.5	0.5
+0	GasterBlaster	0	123	564	323.5	308.5	270	0.5	0.5
+0	GasterBlaster	0	456	444	323.5	308.5	360	0.5	0.5
+0	GasterBlaster	0	123	564	323.5	308.5	45	0.5	0.5
+0	GasterBlaster	0	456	444	323.5	308.5	90	0.5	0.5
+0	GasterBlaster	0	123	564	323.5	308.5	135	0.5	0.5
+0	GasterBlaster	0	456	444	323.5	308.5	180	0.5	0.5
+0	HeartMode	0							
+0	SansText	...							
+0	GasterBlaster	1	654	754	379	286	321	0.333	0.26666
+0	GasterBlaster	1	345	231	379	45	123	0.333	0.26666
+0	GasterBlaster	1	0	0	259	328	541	0.333	0.26666
+0	GasterBlaster	1	640	480	449	51	235	0.333	0.26666
+0	GasterBlaster	1	0	0	189	63	13	0.333	0.26666
+0	GasterBlaster	1	0	0	444	556	85	0.333	0.26666
+0	GasterBlaster	1	657	499	845	0	652	0.333	0.26666
+0	GasterBlaster	1	321	461	379	90	75	0.333	0.26666
+0	GasterBlaster	1	654	754	379	286	321	0.333	0.26666
+0	SansText	45							
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	0	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	45	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	90	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	135	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	180	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	225	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	270	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	315	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	360	2	0.5
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	0	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	45	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	90	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	135	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	180	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	225	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	270	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	315	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	360	2	0.5
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	0	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	45	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	90	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	135	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	180	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	225	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	270	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	315	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	360	2	0.5
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	0	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	45	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	90	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	135	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	180	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	225	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	270	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	315	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	360	2	0.5
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	0	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	45	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	90	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	135	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	180	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	225	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	270	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	315	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	360	2	0.5
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	0	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	45	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	90	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	135	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	180	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	225	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	270	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	315	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	360	2	0.5
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	0	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	45	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	90	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	135	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	180	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	225	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	270	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	315	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	360	2	0.5
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	0	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	45	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	90	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	135	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	180	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	225	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	270	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	315	2	0.5
+0	GasterBlaster	0	123	456	$HeartX	$HeartX	360	2	0.5
+									
+									
+									
+									
+									
+									
+									
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	SineBones	200	25	220	30	52			
+0	SineBones	200	25	-220	30	52			
+0	SineBones	200	25	-220	30	52			
+0	SineBones	200	25	220	30	52			
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+0	GameMode	0							
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									0.3
+									0.3
+									0.3
+									
+									
+									
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+2	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	$HeartX	226	90	1	0.4
+0	GetHeartPos	HeartX	HeartY						
+0	GasterBlaster	0	0	0	41	$HeartY	0	1	0.4
+0	SansText	SABI							
+0	CombatZoneResize	169	226	478	391				
+0	HeartTelePort	320	304						
