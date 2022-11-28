@@ -1,6 +1,6 @@
 00,CombatZoneResizeinstant,241,226,406,391,,,,
 0,HeartTeleport,320,304,,,,,,
-0,SetMaxHp,4444,,,,,,,
+0,SetMaxHp,250,,,,,,,
 0.0001,damageplayer,-999,0,,,,,,
 0,SansHead,Closedeyes,,,,,,,
 0,Sound,mus_zz_megalovania,0,,,,,,
@@ -37,7 +37,7 @@
 0,BlackScreen,0,,,,,,,
 0,SansSlam,0,,,,,,,
 0,HeartMode,0,,,,,,,
-0,SansText,oh you is not die???,,,,,,,
+
 0,SineBones,40,50,50,50,,,,
 2,GetHeartPos,HeartX,HeartY,,,,,,
 0,GasterBlaster,0,0,0,$HeartX,226,45,1,0.4
@@ -1221,8 +1221,7 @@
 0,GasterBlaster,0,0,0,$HeartX,226,270,1,0.4
 0,GasterBlaster,0,0,0,210,$HeartY,315,1,0.4
 0,GasterBlaster,0,0,0,$HeartX,226,360,1,0.4
-0,SansText,i think you are good kid,,,,,,,
-0,SansText,but you killed my friends,,,,,,,
+
 0,SansHead,noeyes,,,,,,,
 ,,,,,,,,,
 ,,,,,,,,,
@@ -1406,8 +1405,6 @@
 0,GetHeartPos,HeartX,HeartY,,,,,,
 0,GasterBlaster,0,0,0,210,$HeartY,45,1,0.4
 0,GasterBlaster,0,0,0,$HeartX,226,90,1,0.4
-10,SansText,so i have to kill you,,,,,,,
-0,SansText,if i don nout see you ...you kill all the ...,,,,,,,
 0,Sanssweat,1,,,,,,,
 0.05,GetHeartPos,HeartX,HeartY,,,,,,
 0.05,GasterBlaster,0,246,333,323.5,$HeartY,0,0,0.5
